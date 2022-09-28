@@ -2,8 +2,7 @@
 
 ## Anwesenheit
 
-- Vor Ort: Jeden Morgen wird eine Anwesenheitsliste unterschrieben.
-- Remote: Jeden Morgen wird ein Screenshot vom Zoommeeting gemacht für das Protokoll.
+Jeden Morgen wird ein Screenshot vom Zoommeeting gemacht für das Protokoll.
 
 Bitte achtet...
 
@@ -13,8 +12,7 @@ Bitte achtet...
 - darauf, dass die Vor- und Nachnamen sichtbar sind
 - darauf, dass das Datum sichtbar ist (am Besten den Screenshot als Fullscreen machen `cmd + shift + 3`)
 
-![example image](images/EXAMPLE.png)
-![2021/01/11](images/2021-01-11.png)
+![example image](../images/hh-web-22-1-20xx-mm-dd.png)
 
 ## Wochenschwerpunkte
 
@@ -33,12 +31,26 @@ Bitte achtet...
 
 ## Tagesablauf
 
-- 09:00 Uhr: Protokoll besprechen
-- 09:30 Uhr: Theorie und Praxis
-- 13:00 Uhr: Mittagspause
-- 14:00 Uhr - 15:00: Theorie und Praxis
-- ab ca. 15:00 Uhr: Übungen
-- 17:00 Uhr: Checkout
+## Vormittag
+
+| Zeit  | Aktivität                                 |
+| ----- | ----------------------------------------- |
+| 09:00 | Offene Fragen & Anwesenheitsbild          |
+| 09:15 | Interaktive Session                       |
+| 10:15 | Active Learning mit Challenges in Gruppen |
+| 11:45 | Recap                                     |
+| 12:15 | Guest Session / Breather                  |
+
+## Nachmittag
+
+| Zeit  | Aktivität                                 |
+| ----- | ----------------------------------------- |
+| 13:00 | Mittagspause                              |
+| 13:45 | Q & A Session & recap                     |
+| 14:30 | Interaktive Session                       |
+| 15:30 | Active Learning mit Challenges in Gruppen |
+| 17:00 | Recap                                     |
+| 17:15 | Selbstorganisierte Lernphase              |
 
 ## Slack
 
