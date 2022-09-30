@@ -9,6 +9,7 @@ Die Student Review startet morgens um **9:00** Uhr ohne Coaches.
 
 ## Teilnehmer:innen
 
+Axel Plasa
 Georg von Bonin
 Georgios Natrosvili
 Justus Becker-Rabbenstein
