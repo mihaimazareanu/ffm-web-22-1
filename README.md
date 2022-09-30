@@ -9,7 +9,22 @@ Die Student Review startet morgens um **9:00** Uhr ohne Coaches.
 
 ## Teilnehmer:innen
 
-_Liste der Kursteilnehmer:innen alphabetisch sortiert nach Vorname_
+Georg von Bonin
+Georgios Natrosvili
+Justus Becker-Rabbenstein
+Leon Stechmann
+Marcos de Barros Vioque
+Maximilian Mergenthal
+Melih Firat
+Mihai Mazareanu
+Milena Schuiringa
+Oleksandr Meniakin
+Robert Schurig
+Sascha Rehberg
+Sergey Movsesyan
+Simon Schuster
+Thomas Weigert
+Timo Thees
 
 ## Inhaltsverzeichnis
 
