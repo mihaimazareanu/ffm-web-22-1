@@ -31,4 +31,4 @@ Timo Thees
 
 ### Woche 1: HTML
 
-- [11.01.2022, Monday](/week1/2022-01-11-monday.md)
+- [04.10.2022, Tuesday](/week1/2022-10-04-tuesday.md)
