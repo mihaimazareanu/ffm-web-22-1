@@ -35,3 +35,4 @@ Timo Thees
 - [05.10.2022, Wednesday](/week1/2022-10-05-wednesday.md)
 - [06.10.2022, Thursday](/week1/2022-10-06-thursday.md)
 - [07.10.2022, Friday](/week1/2022-10-07-friday.md)
+- [10.10.2022, Monday](/week1/2022-10-10-monday.md)
