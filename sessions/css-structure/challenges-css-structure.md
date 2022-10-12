@@ -17,17 +17,17 @@ selectors.
 You can remove the `outline` style declaration once you fixed it's selector. It is only there to
 check if you selected the correct elements.
 
-## Apply BEM to your Quiz App
+## Apply BEM to your personal page
 
-When writing code for your Quiz App, you might have asked yourself how to choose class names. The
+When writing code for your personal page, you might have asked yourself how to choose class names. The
 BEM methodology specifies a predefined pattern for adding class names to your HTML elements.
 
-Bring more structure to your Quiz App code by using BEM to name all classes!
+Bring more structure to your personal page code by using BEM to name all classes!
 
 The desired result: One should be able to see which HTML elements belong together to a logical group
 (a BEM "block" / a "component"), by reading the HTML code and paying attention to the classnames.
 
-## Separate the Quiz App CSS code into different files
+## Separate the personal page CSS code into different files
 
 You created a structure of individual components in the previous exercise.
 
@@ -42,7 +42,7 @@ Your main CSS file (e.g. `styles.css`) should have several `@import` statements.
 The file structure might look something like this afterwards:
 
 ```
-quiz-app
+personal-page
 ├── components
 │   ├── button.css
 │   ├── card.css
@@ -53,9 +53,9 @@ quiz-app
 └── styles.css
 ```
 
-## Identify global values in your Quiz App
+## Identify global values in your personal page
 
-There are probably a lot of redundant values in the CSS code of your Quiz App. Typical cases are:
+There are probably a lot of redundant values in the CSS code of your personal page. Typical cases are:
 
 - colors / background colors
 - borders
