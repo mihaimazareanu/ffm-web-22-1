@@ -40,3 +40,4 @@ Timo Thees
 ### Woche 2: CSS
 
 - [11.10.2022, Tuesday](/week2/2022-10-11-tuesday.md)
+- [12.10.2022, Wednesday](/week2/2022-10-12-wednesday.md)
