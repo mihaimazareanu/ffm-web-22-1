@@ -36,3 +36,8 @@ Timo Thees
 - [06.10.2022, Thursday](/week1/2022-10-06-thursday.md)
 - [07.10.2022, Friday](/week1/2022-10-07-friday.md)
 - [10.10.2022, Monday](/week1/2022-10-10-monday.md)
+
+### Woche 2: CSS
+
+- [11.10.2022, Tuesday](/week2/2022-10-11-tuesday.md)
+- [12.10.2022, Wednesday](/week2/2022-10-12-wednesday.md)
