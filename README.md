@@ -42,3 +42,8 @@ Timo Thees
 - [11.10.2022, Tuesday](/week2/2022-10-11-tuesday.md)
 - [12.10.2022, Wednesday](/week2/2022-10-12-wednesday.md)
 - [13.10.2022, Thursday](/week2/2022-10-13-thursday.md)
+- [14.10.2022, Friday](/week2/2022-10-14-friday.md)
+
+### Woche 3: JavaScript + CSS
+
+- [18.10.2022, Monday](/week3/2022-10-18-tuesday.md)
