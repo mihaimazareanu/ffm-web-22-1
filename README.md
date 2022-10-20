@@ -48,3 +48,4 @@ Timo Thees
 ### Woche 3: JavaScript + CSS
 
 - [18.10.2022, Tuesday](/week3/2022-10-18-tuesday.md)
+- [19.10.2022, Wednesday](/week3/2022-10-19-wednesday.md)
