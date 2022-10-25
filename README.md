@@ -50,7 +50,4 @@ Timo Thees
 - [18.10.2022, Tuesday](/week3/2022-10-18-tuesday.md)
 - [19.10.2022, Wednesday](/week3/2022-10-19-wednesday.md)
 - [20.10.2022, Thursday](/week3/2022-10-20-thursday.md)
-
-### Woche 4
-
-- [24.10.2022, Monday](/week4/2022-10-24-monday.md)
+- [24.10.2022, Monday](/week3/2022-10-24-monday.md)
