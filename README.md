@@ -50,9 +50,9 @@ Timo Thees
 - [18.10.2022, Tuesday](/week3/2022-10-18-tuesday.md)
 - [19.10.2022, Wednesday](/week3/2022-10-19-wednesday.md)
 - [20.10.2022, Thursday](/week3/2022-10-20-thursday.md)
-- [24.10.2022, Monday](/week3/2022-10-24-monday.md)
+- [21.10.2022, Friday] (/week3/2022-10-21-friday.md)
 
 ### Woche 4: JavaScript
 
+- [24.10.2022, Monday](/week3/2022-10-24-monday.md)
 - [25.10.2022, Tuesday](/week4/2022-10-25-tuesday.md)
-
