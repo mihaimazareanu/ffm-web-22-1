@@ -19,3 +19,11 @@ Start by cloning this [template repository](https://github.com/actyvystom/challe
 - Make the `App` component render the `ShoppingCart` component.
 - Turn the `amount` variable in the `ShoppingItem` component into a state.
 - When the user clicks the + / - button the amount should be increased / decreased.
+
+## Bonus Challenge: Handling Form Submit
+
+There is a form in which you enter your favourite holiday and its respective date.
+
+Make sure that, on submit, both input values are saved in separate states.
+
+[Use this Codesandbox](https://codesandbox.io/s/usestate-form-exercise-hul887?file=/src/App.js)
