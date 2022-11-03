@@ -35,22 +35,22 @@ Timo Thees
 - [05.10.2022, Wednesday](/week1/2022-10-05-wednesday.md)
 - [06.10.2022, Thursday](/week1/2022-10-06-thursday.md)
 - [07.10.2022, Friday](/week1/2022-10-07-friday.md)
-- [10.10.2022, Monday](/week1/2022-10-10-monday.md)
 
 ### Woche 2: CSS
 
+- [10.10.2022, Monday](/week1/2022-10-10-monday.md)
 - [11.10.2022, Tuesday](/week2/2022-10-11-tuesday.md)
 - [12.10.2022, Wednesday](/week2/2022-10-12-wednesday.md)
 - [13.10.2022, Thursday](/week2/2022-10-13-thursday.md)
 - [14.10.2022, Friday](/week2/2022-10-14-friday.md)
-- [17.10.2022, Monday](/week2/2022-10-17-monday.md)
 
 ### Woche 3: JavaScript + CSS
 
+- [17.10.2022, Monday](/week2/2022-10-17-monday.md)
 - [18.10.2022, Tuesday](/week3/2022-10-18-tuesday.md)
 - [19.10.2022, Wednesday](/week3/2022-10-19-wednesday.md)
 - [20.10.2022, Thursday](/week3/2022-10-20-thursday.md)
-- [21.10.2022, Friday] (/week3/2022-10-21-friday.md)
+- [21.10.2022, Friday](/week3/2022-10-21-friday.md)
 
 ### Woche 4: JavaScript
 
