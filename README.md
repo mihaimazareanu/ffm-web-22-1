@@ -56,9 +56,18 @@ Timo Thees
 
 - [24.10.2022, Monday](/week3/2022-10-24-monday.md)
 - [25.10.2022, Tuesday](/week4/2022-10-25-tuesday.md)
+- [26.10.2022, Wednesday](week4/2022-10-26-wednesday.md)
+- [27.10.2022, Thursday](week5/2022-10-27-thursday.md)
+- [28.10.2022, Friday](week5/2022-10-28-friday.md)
 
 ### Woche 5: React
 
+- [31.10.2022, Monday](week5/2022-10-31-monday.md)
+- [01.11.2022, Tuesday](week5/2022-11-01-tuesday.md)
 - [02.11.2022, Wednesday](week5/2022-11-02-wednesday.md)
 - [03.11.2022, Thursday](week5/2022-11-03-thursday.md)
-- [04.11.2022, Friday](week5/2022-11-03-friday.md)
+- [04.11.2022, Friday](week5/2022-11-04-friday.md)
+
+### Woche 5: React
+
+- [07.11.2022, Monday](week6/2022-11-07-monday.md)
