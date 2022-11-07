@@ -1,7 +1,7 @@
 ---
 date: 02.11.2022, Wednesday
 author: Georgios
-next-author: Justus
+next-author: Justus Becker-Rabbenstein
 ---
 
 ## Themen
@@ -169,4 +169,4 @@ None.
 
 ## Anwesenheit
 
-![2022/11/02](../images/2022-10-20.png)
+![2022/11/02](../images/2022-11-02.png)
