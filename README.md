@@ -68,6 +68,9 @@ Timo Thees
 - [03.11.2022, Thursday](week5/2022-11-03-thursday.md)
 - [04.11.2022, Friday](week5/2022-11-04-friday.md)
 
-### Woche 5: React
+### Woche 6: React
 
 - [07.11.2022, Monday](week6/2022-11-07-monday.md)
+- [08.11.2022, Tuesday](week6/2022-11-08-tuesday.md)
+- [09.11.2022, Tuesday](week6/2022-11-09-wednesday.md)
+- [10.11.2022, Tuesday](week6/2022-11-10-thursday.md)
