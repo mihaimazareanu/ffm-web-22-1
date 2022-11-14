@@ -72,5 +72,8 @@ Timo Thees
 
 - [07.11.2022, Monday](week6/2022-11-07-monday.md)
 - [08.11.2022, Tuesday](week6/2022-11-08-tuesday.md)
-- [09.11.2022, Tuesday](week6/2022-11-09-wednesday.md)
-- [10.11.2022, Tuesday](week6/2022-11-10-thursday.md)
+- [09.11.2022, Wednesday](week6/2022-11-09-wednesday.md)
+- [10.11.2022, Thursday](week6/2022-11-10-thursday.md)
+- [11.11.2022, Friday](week6/2022-11-11-friday.md)
+
+### Woche 7:
