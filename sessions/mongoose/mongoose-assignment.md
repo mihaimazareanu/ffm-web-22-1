@@ -10,6 +10,13 @@ Benutzt bitte dieses [Starter Template](https://github.com/actyralf/mongoose-ass
 - Geht im Terminal auf Euren Projektordner und ruft `git clone` mit der Adresse Eures Repos auf
 - Wechselt in das von `git clone` neu erstellte Verzeichnis
 - Ruft `npm install` auf, um die Dependencies zu installieren
+- Erstellt eine Datei `.env.local` mit folgendem Inhalt:
+  ```
+  MONGO_DB_URI=mongodb://localhost:27017/products
+  ```
+
+**WICHTIG**: Das Repo verwendet die Datenbank `products` mit einer Collection, die ebenfalls `products` heißt.
+Spielt also Eure Testdaten in diese Collection ein.
 
 # Aufgabe 1
 
