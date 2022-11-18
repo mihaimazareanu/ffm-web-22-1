@@ -76,7 +76,7 @@ Timo Thees
 - [10.11.2022, Thursday](week6/2022-11-10-thursday.md)
 - [11.11.2022, Friday](week6/2022-11-11-friday.md)
 
-### Woche 7:
+### Woche 7: Mongodb
 
 - [14.11.2022, Monday](week7/2022-11-14-monday.md)
 - [15.11.2022, Tuesday](week7/2022-11-15-tuesday.md)
