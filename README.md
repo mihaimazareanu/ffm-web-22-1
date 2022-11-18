@@ -79,5 +79,7 @@ Timo Thees
 ### Woche 7:
 
 - [14.11.2022, Monday](week7/2022-11-14-monday.md)
-
+- [15.11.2022, Tuesday](week7/2022-11-15-tuesday.md)
 - [16.11.2022, Wednesday](week7/2022-11-16-wednesday.md)
+
+- [18.11.2022, Friday](week7/2022-11-18-friday.md)
