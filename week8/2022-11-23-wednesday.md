@@ -21,6 +21,7 @@ Erste Sitzung der Capstone Projekte und One-on-One Interviews mit den Alumni üb
 ## Material & Links
 
 - https://www.scrum.org/
+- https://metroretro.io/board/LBAZQSBOWO8X#
 
 ## Aufgaben
 
