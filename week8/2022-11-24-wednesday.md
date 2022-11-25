@@ -15,6 +15,7 @@ next-author: Georgios
 ### Nachmittag
 
 - same
+- Abends: Bergfest mit Game Master Simon
 
 ---
 
