@@ -93,3 +93,4 @@ Timo Thees
 ### Woche 9: Capstone Project
 
 - [28.11.2022, Monday](week9~12/2022-11-28-monday.md)
+- [29.11.2022, Tuesday](week9~12/2022-11-29-tuesday.md)
