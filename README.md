@@ -87,9 +87,11 @@ Timo Thees
 
 ### Woche 8: Agile Workshop + Capstone Project
 
-- [24.11.2022, Wednesday](week8/2022-11-24-wednesday.md)
+- [23.11.2022, Wednesday](week8/2022-11-23-wednesday.md)
+- [24.11.2022, Wednesday](week8/2022-11-24-thursday.md)
 - [25.11.2022, Friday](week8/2022-11-25-friday.md)
 
 ### Woche 9: Capstone Project
 
 - [28.11.2022, Monday](week9~12/2022-11-28-monday.md)
+- [30.11.2022, Wednesday](week9~12/2022-11-30-wednesday.md)
