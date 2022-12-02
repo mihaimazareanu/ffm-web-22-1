@@ -1,6 +1,6 @@
 # Fix for "flicker issues" on first load for projects based on the octopus capstone template
 
-When deploying your capstone project to Vercel you might experience, that the page loads without styles first and the styling is applied in a second step after a second.
+When deploying your capstone project to Vercel you might experience that the page loads without styles first and the styling is applied in a second step after a short delay.
 To prevent this annoying flickering effect, we recommend the following fix:
 
 - If you didn't change your `_document.js` yet, simply replace it with the following code:
@@ -55,6 +55,6 @@ To prevent this annoying flickering effect, we recommend the following fix:
 - If you changed your `_document.js` already (e.g. to replace the app icon), please copy your changed JSX code into the `return` section of the code above.
 - Additionally, we found two unneccessary npm-imports in the template. We did not find any issues with them yet, but to keep everything clean you could try to remove them by running the following command:
 
-```
-npm uninstall @babel/core babel-loader
-```
+  ```
+  npm uninstall @babel/core babel-loader
+  ```
