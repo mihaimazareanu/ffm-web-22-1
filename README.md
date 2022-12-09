@@ -19,6 +19,7 @@ Maximilian Mergenthal,
 Melih Firat,
 Mihai Mazareanu,
 Milena Schuiringa,
+Nimalan Suntharalingam,
 Oleksandr Meniakin,
 Robert Schurig,
 Sascha Rehberg,
@@ -84,13 +85,21 @@ Timo Thees
 - [17.11.2022, Thursday](week7/2022-11-17-thursday.md)
 - [18.11.2022, Friday](week7/2022-11-18-friday.md)
 
-
 ### Woche 8: Agile Workshop + Capstone Project
 
-- [24.11.2022, Wednesday](week8/2022-11-24-wednesday.md)
+- [23.11.2022, Wednesday](week8/2022-11-23-wednesday.md)
+- [24.11.2022, Wednesday](week8/2022-11-24-thursday.md)
 - [25.11.2022, Friday](week8/2022-11-25-friday.md)
 
 ### Woche 9: Capstone Project
 
 - [28.11.2022, Monday](week9~12/2022-11-28-monday.md)
 - [29.11.2022, Tuesday](week9~12/2022-11-29-tuesday.md)
+- [30.11.2022, Wednesday](week9~12/2022-11-30-wednesday.md)
+
+### Woche 10: Capstone Project
+
+- [05.12.2022, Monday](week9~12/2022-12-05-monday.md)
+- [06.12.2022, Tuesday](week9~12/2022-12-06-tuesday.md)
+- [07.12.2022, Wednesday](week9~12/2022-12-07-wednesday.md)
+
