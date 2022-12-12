@@ -34,4 +34,4 @@ next-author: Simon Schuster
 
 ## Anwesenheit
 
-![2022/12/12](../images/2022-12-07.png)
+![2022/12/12](../images/2022-12-12.png)
