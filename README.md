@@ -103,3 +103,4 @@ Timo Thees
 - [06.12.2022, Tuesday](week9~12/2022-12-06-tuesday.md)
 - [07.12.2022, Wednesday](week9~12/2022-12-07-wednesday.md)
 
+- [09.12.2022, Friday](week9~12/2022-12-09-friday.md)
