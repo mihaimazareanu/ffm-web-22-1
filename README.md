@@ -103,7 +103,7 @@ Timo Thees
 - [05.12.2022, Monday](week9~12/2022-12-05-monday.md)
 - [06.12.2022, Tuesday](week9~12/2022-12-06-tuesday.md)
 - [07.12.2022, Wednesday](week9~12/2022-12-07-wednesday.md)
-- [08.12.2022, Thursday](week9~12/2022-12-08-wednesday.md)
+- [08.12.2022, Thursday](week9~12/2022-12-08-thursday.md)
 
 ### Woche 11: Capstone Project
 
