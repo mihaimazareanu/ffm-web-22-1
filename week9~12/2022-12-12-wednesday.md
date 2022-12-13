@@ -1,0 +1,37 @@
+---
+date: 12.12.2022, Wednesday
+author: Sergey Movsesyan
+next-author: Simon Schuster
+---
+
+## Themen
+- Public Sprint Review
+- Capstone project software development
+
+### Vormittag
+
+- Daily
+- Capstone project software development
+
+### Nachmittag
+- Public Sprint Review
+- Capstone project software development
+- Checkout
+
+---
+
+## Material & Links
+
+- None
+
+---
+
+## Offene Fragen
+
+- None
+
+---
+
+## Anwesenheit
+
+![2022/12/12](../images/2022-12-12.png)

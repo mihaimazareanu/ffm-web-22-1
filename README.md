@@ -94,6 +94,7 @@ Timo Thees
 ### Woche 9: Capstone Project
 
 - [28.11.2022, Monday](week9~12/2022-11-28-monday.md)
+- [29.11.2022, Tuesday](week9~12/2022-11-29-tuesday.md)
 - [30.11.2022, Wednesday](week9~12/2022-11-30-wednesday.md)
 
 ### Woche 10: Capstone Project
@@ -102,3 +103,4 @@ Timo Thees
 - [06.12.2022, Tuesday](week9~12/2022-12-06-tuesday.md)
 - [07.12.2022, Wednesday](week9~12/2022-12-07-wednesday.md)
 - [08.12.2022, Thursday](week9~12/2022-12-08-wednesday.md)
+
