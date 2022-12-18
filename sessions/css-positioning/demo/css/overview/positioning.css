@@ -1,0 +1,10 @@
+main {
+position: relative;
+
+}
+
+
+.two {
+    position: absolute;
+    bottom: 150px;
+}
