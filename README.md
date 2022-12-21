@@ -114,3 +114,4 @@ Timo Thees
 
 ### Woche 12: Capstone Project
 - [19.12.2022, Monday](week9~12/2022-12-19-monday.md)
+- [20.12.2022, Tuesday](week9~12/2022-12-20-tuesday.md)
